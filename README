@@ -1,0 +1,8 @@
+compiling: make
+
+Running: ./run <number of threads>
+
+Best case:
+n = 64000000
+Threads 4: speedup 3.2
+Threads 8: speedup 5.3
